@@ -1,7 +1,7 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>ALDRIN.S</h3>
-<h3>212223240005</h3>
+<h3>NAME:ALDRIN.S</h3>
+<h3>REG NO:212223240005</h3>
 
 <h3>EX. NO2</h3>
 
